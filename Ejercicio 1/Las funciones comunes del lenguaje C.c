@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include <iostream>
+
 int main() {
 
     int num = -10;
